@@ -16,36 +16,36 @@
 
 ### * Track 1: Cloud Engineering Track
 
-- [ ] Getting Started: Create and Manage Cloud Resources: [link](https://google.qwiklabs.com/quests/120)
-    - [ ] A Tour of Qwiklabs and Google Cloud
-    - [ ] Creating a Virtual Machine
-    - [ ] Getting Started with Cloud Shell and gcloud
-    - [ ] Kubernetes Engine: Qwik Start
-    - [ ] Set Up Network and HTTP Load Balancers
-    - [ ] Create and Manage Cloud Resources: Challenge Lab
-- [ ] Perform Foundational Infrastructure Tasks in Google Cloud: [link](https://google.qwiklabs.com/quests/118)
-    - [ ] Cloud Storage Qwik Start - Cloud Console
-    - [ ] Cloud IAM: Qwik Start
-    - [ ] Cloud Monitoring: Qwik Start
-    - [ ] Cloud Functions: Qwik Start - Console
-    - [ ] Google Cloud Pub/Sub: Qwik Start - Console
-    - [ ] Perform Foundational Infrastructure Tasks in Google Cloud: Challenge Lab
-- [ ] Setup and Configure a cloud environment in Google Cloud: [link](https://google.qwiklabs.com/quests/119)
-    - [ ] Cloud IAM: Qwik Start
-    - [ ] Introduction to SQL for BigQuery and Cloud SQL
-    - [ ] Multiple VPC Networks
-    - [ ] Cloud Monitoring: Qwik Start
-    - [ ] Managing Deployments Using Kubernetes Engine
-    - [ ] Set Up and Configure a cloud environment in Google Cloud: Challenge Lab
-- [ ] Deploy and Manage Cloud environments with Google Cloud: [link](https://google.qwiklabs.com/quests/121)
-    - [ ] Orchestrating the Cloud with Kubernetes
-    - [ ] Continuous Delivery Pipelines with Spinnaker and Kubernetes Engine
-    - [ ] Multiple VPC Networks
-    - [ ] Troubleshooting Workloads on GKE for Site Reliability Engineers
-    - [ ] Deploy and Manage Cloud Environments with Google Cloud: Challenge Lab
+- [x] Getting Started: Create and Manage Cloud Resources: [link](https://google.qwiklabs.com/quests/120)
+    - [x] A Tour of Qwiklabs and Google Cloud
+    - [x] Creating a Virtual Machine
+    - [x] Getting Started with Cloud Shell and gcloud
+    - [x] Kubernetes Engine: Qwik Start
+    - [x] Set Up Network and HTTP Load Balancers
+    - [x] Create and Manage Cloud Resources: Challenge Lab
+- [x] Perform Foundational Infrastructure Tasks in Google Cloud: [link](https://google.qwiklabs.com/quests/118)
+    - [x] Cloud Storage Qwik Start - Cloud Console
+    - [x] Cloud IAM: Qwik Start
+    - [x] Cloud Monitoring: Qwik Start
+    - [x] Cloud Functions: Qwik Start - Console
+    - [x] Google Cloud Pub/Sub: Qwik Start - Console
+    - [x] Perform Foundational Infrastructure Tasks in Google Cloud: Challenge Lab
+- [x] Setup and Configure a cloud environment in Google Cloud: [link](https://google.qwiklabs.com/quests/119)
+    - [x] Cloud IAM: Qwik Start
+    - [x] Introduction to SQL for BigQuery and Cloud SQL
+    - [x] Multiple VPC Networks
+    - [x] Cloud Monitoring: Qwik Start
+    - [x] Managing Deployments Using Kubernetes Engine
+    - [x] Set Up and Configure a cloud environment in Google Cloud: Challenge Lab
+- [x] Deploy and Manage Cloud environments with Google Cloud: [link](https://google.qwiklabs.com/quests/121)
+    - [x] Orchestrating the Cloud with Kubernetes
+    - [x] Continuous Delivery Pipelines with Spinnaker and Kubernetes Engine
+    - [x] Multiple VPC Networks
+    - [x] Troubleshooting Workloads on GKE for Site Reliability Engineers
+    - [x] Deploy and Manage Cloud Environments with Google Cloud: Challenge Lab
 - [ ] Build and Secure Networks in Google Cloud: [link](https://google.qwiklabs.com/quests/128)
-    - [ ] User Authentication: Identity-Aware Proxy
-    - [ ] Multiple VPC Networks
+    - [x] User Authentication: Identity-Aware Proxy
+    - [x] Multiple VPC Networks
     - [ ] VPC Networks - Controlling Access
     - [ ] HTTP Load Balancer with Cloud Armor
     - [ ] Create an Internal Load Balancer
